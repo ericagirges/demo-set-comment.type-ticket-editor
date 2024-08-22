@@ -1,0 +1,19 @@
+{
+  "name": "set-comment_type",
+  "author": {
+    "name": "Erica Girges",
+    "email": "erica.girges@zendesk.com",
+    "url": "https://z3nericagirges.zendesk.com"
+  },
+  "defaultLocale": "en",
+  "private": true,
+  "location": {
+    "support": {
+      "ticket_editor": {
+        "url": "assets/iframe.html"
+      }
+    }
+  },
+  "version": "1.0.0",
+  "frameworkVersion": "2.0"
+}
